@@ -21,7 +21,7 @@
 
      self.setTextToLabelForNSLoader("Loading...")
 
-<B>To rotate perticular times in one second</B>
+<B>To rotate particular times in one second</B>
 
      self.rotationOfNSLoaderPerSecond(1.0)
 
