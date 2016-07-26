@@ -9,27 +9,27 @@
 
 <h1> USAGE </h1>
 
-To show Loader
+<B>To show Loader</B>
 
      self.view.showNSLoader(.Center)
      
-To hide Loader
+<B>To hide Loader</B>
 
      self.view.hideNSLoader()
 
-To display Text
+<B>To display Text</B>
 
      self.setTextToLabelForNSLoader("Loading...")
 
-To rotate perticular times in one second
+<B>To rotate perticular times in one second</B>
 
      self.rotationOfNSLoaderPerSecond(1.0)
 
-To rotate Loader anticlock wise
+<B>To rotate Loader anticlock wise</B>
 
      self.rotateNSLoaderClockwise(false)
 
-To disable user interaction
+<B>To disable user interaction</B>
 
      self.interactionDisabledWhileNSLoaderAppears()
 
